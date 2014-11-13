@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2013\Projects\RedNode\RedNode\bin\Debug\RedNode.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\RedNode\RedNode\bin\Debug\RedNode.exe
+c:\users\michael\documents\visual studio 2013\Projects\RedNode\RedNode\bin\Debug\RedNode.pdb
+c:\users\michael\documents\visual studio 2013\Projects\RedNode\RedNode\obj\Debug\RedNode.exe
+c:\users\michael\documents\visual studio 2013\Projects\RedNode\RedNode\obj\Debug\RedNode.pdb
+c:\users\michael\documents\visual studio 2013\Projects\RedNode\RedNode\obj\Debug\RedNode.csprojResolveAssemblyReference.cache
